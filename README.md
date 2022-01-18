@@ -4,12 +4,12 @@ Both are required for graduation.
 The final capstone is similar in technical requirements as the front-end capstone and will include user specifications and a case study.
 
 ### Timeline
-* 1/24 - 👍 Initial Ideas
-* 1/27 begin 👥 user research
-* 2/3 👩‍💻👨‍💻Must be coding
-* 2/12 🛑 Stop coding! 🗄️ Push working versions to GitHub. Update 🌐 website.
-* 2/13 Afternoon setup for graduation 🤞
-* 2/14 ⏰ Morning DEMO and 🎓 Graduation
+* 1/19 - 👍 Initial Ideas
+* 1/20 begin 👥 user research
+* 1/28 👩‍💻👨‍💻Must be coding
+* 2/9 🛑 Stop coding! 🗄️ Push working versions to GitHub. Update 🌐 website.
+* 2/10 Afternoon Showoff 🤞
+* 2/11 ⏰ Morning DEMO and 🎓 Graduation
 ## User Requirements
   * **Challenge Statement**. What problem are you solving?
   * Employ interviews and research to identify Users/Customers and create the deliverable **Personas**.
@@ -37,22 +37,23 @@ The final capstone is similar in technical requirements as the front-end capston
   * Github repo with complete ReadME.md
 
 ### Keep in MIND
-  * CRUD is an `easy` way to approval
-  * Use of Firebase will allow for various logins
-  * Use of Firebase will allow app to be live
+  * CRUD is an `easy` way to approval.
+  * Use JSON server and host with heroku for a live demo.
   * Your idea may be bigger than MVP - that's ok.
 
 ## Porfolio Checklist
 
-* Introduction. A summary to introduce yourself and your workstyle to the viewer.
-* Project Case Studies (minimum 4 including front-end capstone and final capstone). This is the heart of your portfolio. It’s where you put the projects that you are proud of and want interviewers and clients to ooh-and-ah over.
+* Introduction. A summary to introduce yourself and your work-style to the viewer.
+* Project Case Studies (minimum 3 including front-end capstone and final capstone). This is the heart of your portfolio. It’s where you put the projects that you are proud of and want interviewers and clients to ooh-and-ah over.
 * Work History. An online version of your resume.
-* Contact: Make sure it is easy to get in touch with you and all links work to your website, LinkedIn, and GitHub (dribbble/Behance - only if you have projects to display).
+* Contact: Make sure it is easy to get in touch with you and all links work to your website, LinkedIn, and GitHub.
 
 ## Case Study Checklist
 Compose a story to walk your viewer through the key points of the project. The project may be an entirely new app from idea to release, or it may be just a usability test or the mock-ups for a redesign. Every case study does not have to include all user 'scenario options'; every case study needs to demonstrate the best of your skills and the process you used.
 
 * Project Overview. This short paragraph is meant to engage your viewer, to make them want to continue.
+
+* Link to video if available
 
 * Link to live site/app (if available), URL or links to App Store and/or Google Play.
 
