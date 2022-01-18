@@ -41,12 +41,17 @@ The final capstone is similar in technical requirements as the front-end capston
   * Use JSON server and host with heroku for a live demo.
   * Your idea may be bigger than MVP - that's ok.
 
-## Porfolio Checklist
+## Portfolio Checklist
 
-* Introduction. A summary to introduce yourself and your work-style to the viewer.
-* Project Case Studies (minimum 3 including front-end capstone and final capstone). This is the heart of your portfolio. It’s where you put the projects that you are proud of and want interviewers and clients to ooh-and-ah over.
-* Work History. An online version of your resume.
-* Contact: Make sure it is easy to get in touch with you and all links work to your website, LinkedIn, and GitHub.
+1. **Portfolio** - may also include case study with challenge statement, research/competitive analysis, persona, wireframes, mockups, user testing/feedback, conclusion.
+  * Introduction. A summary to introduce yourself and your work-style to the viewer.
+  * Project Case Studies (minimum 3 including front-end capstone and final capstone). This is the heart of your portfolio. It’s where you put the projects that you are proud of and want interviewers and clients to ooh-and-ah over.
+  * Work History. An online version of your resume.
+  * Contact: Make sure it is easy to get in touch with you and all links work to your website, LinkedIn, and GitHub.
+2. **Front-End Capstone and Case Study** - challenge statement, persona, user testing(in current state), and conclusion/summary of findings. You should also include technologies used.
+1. **Cohort Website and Case Study** - challenge statement, research/competitive analysis, persona, wireframes, mockups, user testing/feedback, conclusion.
+1. **Other Projects** emphasizing technology and/or user goals.
+1. **Backend Capstone and Case Study** - challenge statement, research/competitive analyst, persona, wireframes, mockups/prototype, user testing/feedback, conclusion. You should also include technologies used.
 
 ## Case Study Checklist
 Compose a story to walk your viewer through the key points of the project. The project may be an entirely new app from idea to release, or it may be just a usability test or the mock-ups for a redesign. Every case study does not have to include all user 'scenario options'; every case study needs to demonstrate the best of your skills and the process you used.
