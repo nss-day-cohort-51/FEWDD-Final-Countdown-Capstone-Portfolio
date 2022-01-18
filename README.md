@@ -79,6 +79,7 @@ Compose a story to walk your viewer through the key points of the project. The p
 * Lessons Learned. What would you do differently? What did you learn from interviews and usability tests that had a big impact on your final solution? Demonstrate how you applied the lessons to the project.
 
 ## More Reading to Craft Your Portfolio and Get Ready for Interviews!
+* [Dribbble UX Portfolio](https://dribbble.com/resources/user-experience-portfolio)
 * [What I learned from flying to Seattle for Microsoft’s final wave of design interviews](https://www.freecodecamp.org/news/what-i-learned-from-flying-to-seattle-for-microsofts-final-wave-of-design-interviews-8eab06c50ce5/) [22 min read]
 This Medium story is long. But if you want to know how design position interviews go at big companies, you will learn a lot here. The writer goes into minute detail, such as checking in to her hotel room!
 * [Crafting Your UX Portfolio — A Weekend Guide to Getting It Done](https://writing.enchant.co/crafting-your-ux-portfolio-a-weekend-guide-to-getting-it-done-632e13acd3d1)
